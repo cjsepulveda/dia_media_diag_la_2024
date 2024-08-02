@@ -1,7 +1,7 @@
 services:
   # See https://render.com/docs/blueprint-spec for more info on render blueprints
   - type: web
-    name: dia_intfin_media_2024
+    name: dia_diagnostico
     env: python
     plan: starter
     # A requirements.txt file must exist
